@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats-williroger.vercel.app/api/top-langs/?username=williroger&langs_count=10&layout=compact&theme=dark&card_width=800px&custom_title="Roger's most used programing languages in Github")
+![Top Langs](https://github-readme-stats-williroger.vercel.app/api/top-langs/?username=williroger&langs_count=10&layout=compact&theme=dark&card_width=800px&custom_title=Roger's most used programing languages in Github)
