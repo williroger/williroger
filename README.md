@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Bem-vinda, pessoa (ou robô) 👋
 
 <!--
 **williroger/williroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats-williroger.vercel.app/api/top-langs/?username=williroger&langs_count=10&layout=compact&theme=dark&card_width=800px)
+![Top Langs](https://github-readme-stats-williroger.vercel.app/api/top-langs/?username=williroger&langs_count=10&layout=compact&theme=dark&card_width=800px&custom_title="Roger's most used programing languages in Github")
